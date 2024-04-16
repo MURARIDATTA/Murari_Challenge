@@ -1,4 +1,4 @@
-# Murari_Challenge-
+# Murari_Challenge
 This function determines whether a given credit card number is valid based on specific rules.
 It returns "Valid" if the number meets all the rules, otherwise "Invalid".
    *It checks right away if there are spaces in the number and marks it as "Invalid" if there are.
